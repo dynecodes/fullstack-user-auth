@@ -31,7 +31,6 @@ Local storage/session storage for persisted cart data
 - [Mongo DB](https://www.mongodb.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
-## Team
 
 [![Dyne Sombero](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/dynecodes)
 
