@@ -32,7 +32,6 @@ Local storage/session storage for persisted cart data
 - [Bootstrap](http://getbootstrap.com/)
 
 
-[![Dyne Sombero](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/dynecodes)
 
  [Dyne Sombero ](https://github.com/dynecodes)
 
