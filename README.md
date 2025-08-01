@@ -18,7 +18,7 @@ Local storage/session storage for persisted cart data
 </tr>
 </table>
 
-# ![Note Zipper](https://github.com/dynecodes/fullstack-user-auth.git/blob/master/images/landing.png)
+# ![User Note](https://github.com/dynecodes/fullstack-user-auth.git/blob/master/images/landing.png)
 
 
 ## Site
